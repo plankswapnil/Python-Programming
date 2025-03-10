@@ -23,4 +23,4 @@ def squaresum(n) :
 n = 4
 print(squaresum(n))
   
-# This code is contributed by Nikita Tiwari.*/
+# This code is contributed by Swapnil Paul.*/
